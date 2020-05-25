@@ -6,7 +6,7 @@ Simple grid responsive con transiciones, imágenes y un poco de texto. En javasc
 
 - HTML: Lenguaje de marcado
 - CSS: Lenguage de estilos.
-- [Vue](https://cli.vuejs.org/): Framework progresivo de JavaScript.
+- [Vue](https://vuejs.org/): Framework progresivo de JavaScript.
 
 ## Para ver el proyecto
 
